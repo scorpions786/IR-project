@@ -4,6 +4,7 @@ This project is about building a system that can extract text from a collection 
 #USING
 * natural language processing
 * machine learning
+
 #Goal
 * find relationships among  arabic books
 
@@ -16,10 +17,12 @@ the system may allow the users to investigate things such as:
 *      Classification or clustering of books based on their content.
 *      Discover relationships among texts, based on quotations and similarity analysis.
 *      Visualize these findings using innovative charts (similar to D3.js interactive charts).
+
+
 ------------------------------------------------------------------------------------------------
 
- A)Training
 
+ A)Training
 
 +----------+
 |----------|                                                        +-----------+
